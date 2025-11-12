@@ -1,0 +1,44 @@
+{
+  "pieski": [
+    {
+      "id": 1,
+      "nazwa": "Owczarek niemiecki",
+      "pochodzenie": "Niemcy",
+      "wielkosc": "Duża",
+      "charakter": [
+        "Inteligentny",
+        "posłuszny"
+      ]
+    },
+    {
+      "id": 2,
+      "nazwa": "Jamnik",
+      "pochodzenie": "Polska",
+      "wielkosc": "Mała",
+      "charakter": [
+        "Czujny",
+        "odważny"
+      ]
+    },
+    {
+      "id": 3,
+      "nazwa": "Beagle",
+      "pochodzenie": "Wielka Brytania",
+      "wielkosc": "Średnia",
+      "charakter": [
+        "Przyjazny",
+        "energiczny"
+      ]
+    },
+    {
+      "id": 4,
+      "nazwa": "Buldog francuski",
+      "pochodzenie": "Francja",
+      "wielkosc": "Mała",
+      "charakter": [
+        "Towarzyski",
+        "wesoły"
+      ]
+    }
+  ]
+}

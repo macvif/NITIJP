@@ -1,0 +1,34 @@
+{
+  "ulubione gry komputerowe": [
+    {
+      "id": 1,
+      "nazwa": "Sekiro",
+      "gatunek": "Souls-like",
+      "rok wydania": "2019",
+      "najwyzsza ilosc graczy w jednym momencie": "125tys"
+    },
+    {
+      "id": 2,
+      "nazwa": "CS2",
+      "gatunek": "FPS",
+      "rok wydania": "2012",
+      "najwyzsza ilosc graczy w jednym momencie": "1,8mln"
+      
+    },
+    {
+      "id": 3,
+      "nazwa": "Dota 2",
+      "gatunek": "MOBA",
+      "rok wydania": "2013",
+      "najwyzsza ilosc graczy w jednym momencie": "1,3mln"
+      
+    },
+    {
+      "id": 4,
+      "nazwa": "Rust",
+      "gatunek": "Survival",
+      "rok wydania": "2018",
+      "najwyzsza ilosc graczy w jednym momencie": "262tys"
+    }
+  ]
+}

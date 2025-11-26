@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pieski xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="pieski.xsd">
+  <rasa id="1">
+    <nazwa>Owczarek niemiecki</nazwa>
+    <pochodzenie>Niemcy</pochodzenie>
+    <wielkosc>Duża</wielkosc>
+    <charakter>
+      Inteligentny, posłuszny
+    </charakter>
+  </rasa>
+   <rasa id="2">
+    <nazwa>Jamnik</nazwa>
+    <pochodzenie>Polska</pochodzenie>
+    <wielkosc>Mała</wielkosc>
+    <charakter>
+      Czujny, odważny
+    </charakter>
+  </rasa>
+  <rasa id="3">
+    <nazwa>Beagle</nazwa>
+    <pochodzenie>Wielka Brytania</pochodzenie>
+    <wielkosc>Średnia</wielkosc>
+    <charakter>
+      Przyjazny, energiczny
+    </charakter>
+  </rasa>
+</pieski>
